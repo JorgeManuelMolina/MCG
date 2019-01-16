@@ -1,0 +1,10 @@
+- Usar wip para saber cuando puede pasar la siguiente pieza
+
+	WIP1+WIP2+WIP3+Hold2* = 0 ==> Entonces puede pasar la siguiente pieza
+
+*Hold2 = Puede que las estaciones estén libres pero la pieza esté esperando al final, es decir
+en el Hold2.
+
+
+- Para los descansos se usa Preempt.
+La herramienta que use cada operario no queda disponible durante el descanso.
