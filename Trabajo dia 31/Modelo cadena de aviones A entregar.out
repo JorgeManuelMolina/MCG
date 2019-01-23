@@ -1,0 +1,89 @@
+
+                                      ARENA Simulation Results
+                            Jorge_Molina92@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 1/23/2019
+Analyst: Jorge_Molina92@hotmail.com                                  Model revision date: 1/23/2019
+
+Replication ended at time      : 192.0 Hours 
+Statistics were cleared at time: 24.0 Hours (Thursday, January 24, 2019, 00:00:00)
+Statistics accumulated for time: 168.0 Hours
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Avion.VATime                                31.500     (Insuf)    31.500     31.500          8    
+Avion.NVATime                               .00000     (Insuf)    .00000     .00000          8    
+Avion.WaitTime                              54.468     (Insuf)    1.0000     92.000          8    
+Avion.TranTime                              9.0000     (Insuf)    9.0000     9.0000          8    
+Avion.OtherTime                             .00000     (Insuf)    .00000     .00000          8    
+Avion.TotalTime                             94.968     (Insuf)    41.500     132.50          8    
+Operacion 3 Estacion 1.Queue.WaitingTime    .00000     (Insuf)    .00000     .00000          9    
+Operacion 3 Estacion 2.Queue.WaitingTime    .00000     (Insuf)    .00000     .00000          9    
+Avion en Espera en Estacion 1.Queue.Waitin  11.187     (Insuf)    11.000     11.500          8    
+Operacion 2 Estacion 1.Queue.WaitingTime    .00000     (Insuf)    .00000     .00000          9    
+Operacion 3 Estacion 3.Queue.WaitingTime    .00000     (Insuf)    .00000     .00000          9    
+Avion en Espera en Estacion 2.Queue.Waitin  4.0312     (Insuf)    3.7500     4.2500          8    
+Operacion 2 Estacion 2.Queue.WaitingTime    .00000     (Insuf)    .00000     .00000          9    
+Operacion 1 Estacion 1.Queue.WaitingTime    .00000     (Insuf)    .00000     .00000          8    
+Operacion 2 Estacion 3.Queue.WaitingTime    .00000     (Insuf)    .00000     .00000          9    
+Operacion 1 Estacion 2.Queue.WaitingTime    .00000     (Insuf)    .00000     .00000          9    
+Guardar Copias.Queue.WaitingTime            74.656     (Insuf)    33.750     113.50          8    
+Operacion 1 Estacion 3.Queue.WaitingTime    .02778     (Insuf)    .00000     .25000          9    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Avion.WIP                                   11.010     (Insuf)    6.0000     15.000     15.000    
+Herramienta 1.NumberBusy                    .55506     (Insuf)    .00000     1.0000     .00000    
+Herramienta 1.NumberScheduled               .96875     (Insuf)    .00000     1.0000     1.0000    
+Herramienta 1.Utilization                   .55506     (Insuf)    .00000     1.0000     .00000    
+Herramienta 2.NumberBusy                    .50893     (Insuf)    .00000     1.0000     .00000    
+Herramienta 2.NumberScheduled               .96875     (Insuf)    .00000     1.0000     1.0000    
+Herramienta 2.Utilization                   .50893     (Insuf)    .00000     1.0000     .00000    
+Herramienta 3.NumberBusy                    .08036     (Insuf)    .00000     1.0000     .00000    
+Herramienta 3.NumberScheduled               .96875     (Insuf)    .00000     1.0000     1.0000    
+Herramienta 3.Utilization                   .08036     (Insuf)    .00000     1.0000     .00000    
+Herramienta 4.NumberBusy                    .52976     (Insuf)    .00000     1.0000     1.0000    
+Herramienta 4.NumberScheduled               .96875     (Insuf)    .00000     1.0000     1.0000    
+Herramienta 4.Utilization                   .52976     (Insuf)    .00000     1.0000     1.0000    
+Operacion 3 Estacion 1.Queue.NumberInQueue  .00000     (Insuf)    .00000     .00000     .00000    
+Operacion 3 Estacion 2.Queue.NumberInQueue  .00000     (Insuf)    .00000     1.0000     .00000    
+Avion en Espera en Estacion 1.Queue.Number  .59375     (Insuf)    .00000     1.0000     1.0000    
+Operacion 2 Estacion 1.Queue.NumberInQueue  .00000     (Insuf)    .00000     .00000     .00000    
+Operacion 3 Estacion 3.Queue.NumberInQueue  .00000     (Insuf)    .00000     .00000     .00000    
+Avion en Espera en Estacion 2.Queue.Number  .20982     (Insuf)    .00000     1.0000     1.0000    
+Operacion 2 Estacion 2.Queue.NumberInQueue  .00000     (Insuf)    .00000     .00000     .00000    
+Operacion 1 Estacion 1.Queue.NumberInQueue  .00000     (Insuf)    .00000     .00000     .00000    
+Operacion 2 Estacion 3.Queue.NumberInQueue  .00000     (Insuf)    .00000     .00000     .00000    
+Operacion 1 Estacion 2.Queue.NumberInQueue  .00000     (Insuf)    .00000     .00000     .00000    
+Guardar Copias.Queue.NumberInQueue          8.0104     (Insuf)    3.0000     12.000     12.000    
+Operacion 1 Estacion 3.Queue.NumberInQueue  .00149     (Insuf)    .00000     1.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Avion.NumberIn                              16.000    
+Avion.NumberOut                             8.0000    
+Herramienta 1.NumberSeized                  26.000    
+Herramienta 1.ScheduledUtilization          .57296    
+Herramienta 2.NumberSeized                  27.000    
+Herramienta 2.ScheduledUtilization          .52535    
+Herramienta 3.NumberSeized                  9.0000    
+Herramienta 3.ScheduledUtilization          .08295    
+Herramienta 4.NumberSeized                  18.000    
+Herramienta 4.ScheduledUtilization          .54685    
+System.NumberOut                            8.0000    
+
+
+Simulation run time: 0.98 minutes.
+Simulation run complete.

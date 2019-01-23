@@ -1,0 +1,34 @@
+[RESOURCES]
+Herramienta 1
+Herramienta 2
+Herramienta 3
+Herramienta 4
+[VARIABLES]
+Operacion 1 Estacion 3.NumberOut
+Operacion 2 Estacion 2.NumberIn
+Espacio en Estacion 2?.NumberOut True
+Operacion 3 Estacion 2.NumberOut
+Espacio en Estacion 1.NumberOut True
+Operacion 2 Estacion 2.NumberOut
+Operacion 3 Estacion 2.NumberIn
+Operacion 1 Estacion 2.NumberOut
+Operacion 1 Estacion 1.NumberIn
+Operacion 1 Estacion 3.NumberIn
+Espacio en Estacion 3?.NumberOut True
+Espacio en Estacion 1.NumberOut False
+Operacion 3 Estacion 1.NumberOut
+Copia original.NumberOut Dup
+Espacio en Estacion 3?.NumberOut False
+Operacion 2 Estacion 1.NumberOut
+Operacion 2 Estacion 1.NumberIn
+Operacion 2 Estacion 3.NumberIn
+Copia original.NumberOut Orig
+Salida.NumberOut
+Operacion 1 Estacion 1.NumberOut
+Llegada.NumberOut
+Operacion 3 Estacion 1.NumberIn
+Operacion 3 Estacion 3.NumberOut
+Operacion 3 Estacion 3.NumberIn
+Espacio en Estacion 2?.NumberOut False
+Operacion 1 Estacion 2.NumberIn
+Operacion 2 Estacion 3.NumberOut
