@@ -8,14 +8,12 @@ Operacion 1 Estacion 3.NumberOut
 Operacion 2 Estacion 2.NumberIn
 Espacio en Estacion 2?.NumberOut True
 Operacion 3 Estacion 2.NumberOut
-Espacio en Estacion 1.NumberOut True
 Operacion 2 Estacion 2.NumberOut
 Operacion 3 Estacion 2.NumberIn
 Operacion 1 Estacion 2.NumberOut
 Operacion 1 Estacion 1.NumberIn
 Operacion 1 Estacion 3.NumberIn
 Espacio en Estacion 3?.NumberOut True
-Espacio en Estacion 1.NumberOut False
 Operacion 3 Estacion 1.NumberOut
 Copia original.NumberOut Dup
 Espacio en Estacion 3?.NumberOut False

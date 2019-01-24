@@ -4,11 +4,11 @@
 
                                   Summary for Replication 1 of 1
 
-Project: Unnamed Project                                             Run execution date : 1/23/2019
+Project: Unnamed Project                                             Run execution date : 1/24/2019
 Analyst: Jorge_Molina92@hotmail.com                                  Model revision date: 1/23/2019
 
 Replication ended at time      : 192.0 Hours 
-Statistics were cleared at time: 24.0 Hours (Thursday, January 24, 2019, 00:00:00)
+Statistics were cleared at time: 24.0 Hours (Friday, January 25, 2019, 00:00:00)
 Statistics accumulated for time: 168.0 Hours
 Base Time Units: Hours
 
@@ -17,12 +17,18 @@ Base Time Units: Hours
 Identifier                                  Average   Half Width  Minimum    Maximum   Observations
 ___________________________________________________________________________________________________
 
+TiempoTotalEstacion1                        18.906     (Insuf)    18.750     19.000          8    
+TiempoTotalEstacion2                        15.906     (Insuf)    15.750     16.000          8    
+TiempoTotalEstacion3                        12.906     (Insuf)    12.750     13.000          8    
+TiempoTotalOperacionesEstacion1             7.7222     (Insuf)    7.5000     7.7500          9    
+TiempoTotalOperacionesEstacion2             11.888     (Insuf)    11.750     12.000          9    
+TiempoTotalOperacionesEstacion3             12.906     (Insuf)    12.750     13.000          8    
 Avion.VATime                                31.500     (Insuf)    31.500     31.500          8    
 Avion.NVATime                               .00000     (Insuf)    .00000     .00000          8    
-Avion.WaitTime                              54.468     (Insuf)    1.0000     92.000          8    
+Avion.WaitTime                              28.500     (Insuf)    1.0000     35.250          8    
 Avion.TranTime                              9.0000     (Insuf)    9.0000     9.0000          8    
 Avion.OtherTime                             .00000     (Insuf)    .00000     .00000          8    
-Avion.TotalTime                             94.968     (Insuf)    41.500     132.50          8    
+Avion.TotalTime                             69.000     (Insuf)    41.500     75.750          8    
 Operacion 3 Estacion 1.Queue.WaitingTime    .00000     (Insuf)    .00000     .00000          9    
 Operacion 3 Estacion 2.Queue.WaitingTime    .00000     (Insuf)    .00000     .00000          9    
 Avion en Espera en Estacion 1.Queue.Waitin  11.187     (Insuf)    11.000     11.500          8    
@@ -33,7 +39,7 @@ Operacion 2 Estacion 2.Queue.WaitingTime    .00000     (Insuf)    .00000     .00
 Operacion 1 Estacion 1.Queue.WaitingTime    .00000     (Insuf)    .00000     .00000          8    
 Operacion 2 Estacion 3.Queue.WaitingTime    .00000     (Insuf)    .00000     .00000          9    
 Operacion 1 Estacion 2.Queue.WaitingTime    .00000     (Insuf)    .00000     .00000          9    
-Guardar Copias.Queue.WaitingTime            74.656     (Insuf)    33.750     113.50          8    
+Guardar Copias.Queue.WaitingTime            18.906     (Insuf)    18.750     19.000          8    
 Operacion 1 Estacion 3.Queue.WaitingTime    .02778     (Insuf)    .00000     .25000          9    
 
                                      DISCRETE-CHANGE VARIABLES
@@ -41,7 +47,7 @@ Operacion 1 Estacion 3.Queue.WaitingTime    .02778     (Insuf)    .00000     .25
 Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
 ___________________________________________________________________________________________________
 
-Avion.WIP                                   11.010     (Insuf)    6.0000     15.000     15.000    
+Avion.WIP                                   4.0000     (Insuf)    3.0000     4.0000     4.0000    
 Herramienta 1.NumberBusy                    .55506     (Insuf)    .00000     1.0000     .00000    
 Herramienta 1.NumberScheduled               .96875     (Insuf)    .00000     1.0000     1.0000    
 Herramienta 1.Utilization                   .55506     (Insuf)    .00000     1.0000     .00000    
@@ -64,7 +70,7 @@ Operacion 2 Estacion 2.Queue.NumberInQueue  .00000     (Insuf)    .00000     .00
 Operacion 1 Estacion 1.Queue.NumberInQueue  .00000     (Insuf)    .00000     .00000     .00000    
 Operacion 2 Estacion 3.Queue.NumberInQueue  .00000     (Insuf)    .00000     .00000     .00000    
 Operacion 1 Estacion 2.Queue.NumberInQueue  .00000     (Insuf)    .00000     .00000     .00000    
-Guardar Copias.Queue.NumberInQueue          8.0104     (Insuf)    3.0000     12.000     12.000    
+Guardar Copias.Queue.NumberInQueue          1.0000     (Insuf)    .00000     1.0000     1.0000    
 Operacion 1 Estacion 3.Queue.NumberInQueue  .00149     (Insuf)    .00000     1.0000     .00000    
 
                                              OUTPUTS
@@ -72,7 +78,7 @@ Operacion 1 Estacion 3.Queue.NumberInQueue  .00149     (Insuf)    .00000     1.0
 Identifier                                   Value
 _____________________________________________________________
 
-Avion.NumberIn                              16.000    
+Avion.NumberIn                              8.0000    
 Avion.NumberOut                             8.0000    
 Herramienta 1.NumberSeized                  26.000    
 Herramienta 1.ScheduledUtilization          .57296    
@@ -85,5 +91,5 @@ Herramienta 4.ScheduledUtilization          .54685
 System.NumberOut                            8.0000    
 
 
-Simulation run time: 0.72 minutes.
+Simulation run time: 0.03 minutes.
 Simulation run complete.
