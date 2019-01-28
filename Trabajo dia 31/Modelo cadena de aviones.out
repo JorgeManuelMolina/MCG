@@ -4,11 +4,11 @@
 
                                   Summary for Replication 1 of 1
 
-Project: Unnamed Project                                             Run execution date : 1/24/2019
-Analyst: Jorge_Molina92@hotmail.com                                  Model revision date: 1/23/2019
+Project: Unnamed Project                                             Run execution date : 1/28/2019
+Analyst: Jorge_Molina92@hotmail.com                                  Model revision date: 1/28/2019
 
 Replication ended at time      : 192.0 Hours 
-Statistics were cleared at time: 24.0 Hours (Friday, January 25, 2019, 00:00:00)
+Statistics were cleared at time: 24.0 Hours (Tuesday, January 29, 2019, 00:00:00)
 Statistics accumulated for time: 168.0 Hours
 Base Time Units: Hours
 
@@ -91,5 +91,5 @@ Herramienta 4.ScheduledUtilization          .54685
 System.NumberOut                            8.0000    
 
 
-Simulation run time: 0.03 minutes.
+Simulation run time: 0.07 minutes.
 Simulation run complete.
