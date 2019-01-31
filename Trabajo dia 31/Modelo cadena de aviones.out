@@ -1,14 +1,14 @@
 
                                       ARENA Simulation Results
-                                        HP - License: STUDENT
+                                         Usuario de Windows
 
                                   Summary for Replication 1 of 1
 
-Project: Unnamed Project                                             Run execution date : 1/30/2019
-Analyst: Jorge_Molina92@hotmail.com                                  Model revision date: 1/30/2019
+Project: Unnamed Project                                             Run execution date : 1/31/2019
+Analyst: Jorge_Molina92@hotmail.com                                  Model revision date: 1/31/2019
 
 Replication ended at time      : 192.0 Hours 
-Statistics were cleared at time: 24.0 Hours (Thursday, January 31, 2019, 00:00:00)
+Statistics were cleared at time: 24.0 Hours (Friday, February 01, 2019, 00:00:00)
 Statistics accumulated for time: 168.0 Hours
 Base Time Units: Hours
 
@@ -52,14 +52,14 @@ Herramienta 1.NumberBusy                    .55506     (Insuf)    .00000     1.0
 Herramienta 1.NumberScheduled               .96875     (Insuf)    .00000     1.0000     1.0000    
 Herramienta 1.Utilization                   .55506     (Insuf)    .00000     1.0000     .00000    
 Herramienta 2.NumberBusy                    .50893     (Insuf)    .00000     1.0000     .00000    
-Herramienta 2.NumberScheduled               .96875     (Insuf)    .00000     1.0000     1.0000    
-Herramienta 2.Utilization                   .50893     (Insuf)    .00000     1.0000     .00000    
+Herramienta 2.NumberScheduled               1.9375     (Insuf)    .00000     2.0000     2.0000    
+Herramienta 2.Utilization                   .25446     (Insuf)    .00000     .50000     .00000    
 Herramienta 3.NumberBusy                    .08036     (Insuf)    .00000     1.0000     .00000    
 Herramienta 3.NumberScheduled               .96875     (Insuf)    .00000     1.0000     1.0000    
 Herramienta 3.Utilization                   .08036     (Insuf)    .00000     1.0000     .00000    
 Herramienta 4.NumberBusy                    .52976     (Insuf)    .00000     1.0000     1.0000    
-Herramienta 4.NumberScheduled               .96875     (Insuf)    .00000     1.0000     1.0000    
-Herramienta 4.Utilization                   .52976     (Insuf)    .00000     1.0000     1.0000    
+Herramienta 4.NumberScheduled               1.9375     (Insuf)    .00000     2.0000     2.0000    
+Herramienta 4.Utilization                   .26488     (Insuf)    .00000     .50000     .50000    
 Operacion 3 Estacion 1.Queue.NumberInQueue  .00000     (Insuf)    .00000     .00000     .00000    
 Operacion 3 Estacion 2.Queue.NumberInQueue  .00000     (Insuf)    .00000     1.0000     .00000    
 Avion en Espera en Estacion 1.Queue.Number  .59375     (Insuf)    .00000     1.0000     1.0000    
@@ -83,13 +83,13 @@ Avion.NumberOut                             8.0000
 Herramienta 1.NumberSeized                  26.000    
 Herramienta 1.ScheduledUtilization          .57296    
 Herramienta 2.NumberSeized                  27.000    
-Herramienta 2.ScheduledUtilization          .52535    
+Herramienta 2.ScheduledUtilization          .26267    
 Herramienta 3.NumberSeized                  9.0000    
 Herramienta 3.ScheduledUtilization          .08295    
 Herramienta 4.NumberSeized                  18.000    
-Herramienta 4.ScheduledUtilization          .54685    
+Herramienta 4.ScheduledUtilization          .27343    
 System.NumberOut                            8.0000    
 
 
-Simulation run time: 0.05 minutes.
+Simulation run time: 0.02 minutes.
 Simulation run complete.
